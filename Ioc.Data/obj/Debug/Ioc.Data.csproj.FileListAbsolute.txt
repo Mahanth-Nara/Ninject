@@ -1,0 +1,62 @@
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll.config
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.pdb
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.dll
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.dll
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\Ninject.dll
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.pdb
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.xml
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\R&D Projects\IocNinject\Ioc.Data\bin\Debug\Ninject.xml
+C:\R&D Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.csprojResolveAssemblyReference.cache
+C:\R&D Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.dll
+C:\R&D Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.pdb
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll.config
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.pdb
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ninject.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.pdb
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.xml
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ninject.xml
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.csprojResolveAssemblyReference.cache
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.pdb
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll.config
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.pdb
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ninject.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.pdb
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.dll.config
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\bin\Debug\Ninject.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.csproj.AssemblyReference.cache
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.csproj.CoreCompileInputs.cache
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.csproj.CopyComplete
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\Ioc.Data.dll.config
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\Ioc.Data.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\Ioc.Data.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\EntityFramework.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\Ioc.Core.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\Ninject.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\Ioc.Core.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\Ioc.Core.dll.config
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\EntityFramework.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\bin\Debug\Ninject.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\obj\Debug\Ioc.Data.csproj.AssemblyReference.cache
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\obj\Debug\Ioc.Data.csproj.CoreCompileInputs.cache
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\obj\Debug\Ioc.Data.csproj.CopyComplete
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\obj\Debug\Ioc.Data.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Data\obj\Debug\Ioc.Data.pdb

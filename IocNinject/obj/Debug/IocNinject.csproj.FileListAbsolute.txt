@@ -1,0 +1,10 @@
+C:\R&D Projects\IocNinject\IocNinject\bin\Debug\IocNinject.dll
+C:\R&D Projects\IocNinject\IocNinject\bin\Debug\IocNinject.pdb
+C:\R&D Projects\IocNinject\IocNinject\obj\Debug\IocNinject.csprojResolveAssemblyReference.cache
+C:\R&D Projects\IocNinject\IocNinject\obj\Debug\IocNinject.dll
+C:\R&D Projects\IocNinject\IocNinject\obj\Debug\IocNinject.pdb
+C:\R&D Projects\IocNinject\IocNinject\bin\Debug\IocNinject.dll.config
+C:\R&D Projects\IocNinject\IocNinject\bin\Debug\EntityFramework.dll
+C:\R&D Projects\IocNinject\IocNinject\bin\Debug\EntityFramework.SqlServer.dll
+C:\R&D Projects\IocNinject\IocNinject\bin\Debug\EntityFramework.xml
+C:\R&D Projects\IocNinject\IocNinject\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,130 @@
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Ioc.API.dll.config
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Ioc.API.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Ioc.API.pdb
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Antlr3.Runtime.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\EntityFramework.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\EntityFramework.SqlServer.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.Google.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Web.Infrastructure.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Newtonsoft.Json.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Owin.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Net.Http.Formatting.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Helpers.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Http.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Http.Owin.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Http.WebHost.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Mvc.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Optimization.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Razor.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.WebPages.Deployment.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.WebPages.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.WebPages.Razor.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\WebGrease.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Newtonsoft.Json.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Net.Http.Formatting.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Helpers.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Http.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Http.WebHost.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Mvc.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Optimization.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Razor.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.WebPages.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.WebPages.Deployment.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.WebPages.Razor.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Antlr3.Runtime.pdb
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\EntityFramework.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\EntityFramework.SqlServer.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.Google.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\bin\System.Web.Http.Owin.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\obj\Debug\Ioc.API.csproj.AssemblyReference.cache
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\obj\Debug\Ioc.API.csproj.CoreCompileInputs.cache
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\obj\Debug\Ioc.API.csproj.CopyComplete
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\obj\Debug\Ioc.API.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.API\obj\Debug\Ioc.API.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Ioc.API.dll.config
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Ioc.API.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Ioc.API.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Antlr3.Runtime.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\EntityFramework.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\EntityFramework.SqlServer.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Newtonsoft.Json.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Owin.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Net.Http.Formatting.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Helpers.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Http.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Http.Owin.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Http.WebHost.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Mvc.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Optimization.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Razor.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.WebPages.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\WebGrease.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Newtonsoft.Json.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Net.Http.Formatting.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Helpers.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Http.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Http.WebHost.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Mvc.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Optimization.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Razor.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.WebPages.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Antlr3.Runtime.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\EntityFramework.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\EntityFramework.SqlServer.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\bin\System.Web.Http.Owin.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.API\obj\Debug\Ioc.API.csproj.AssemblyReference.cache
+C:\Users\mahan\source\repos\Ninject\Ioc.API\obj\Debug\Ioc.API.csproj.CoreCompileInputs.cache
+C:\Users\mahan\source\repos\Ninject\Ioc.API\obj\Debug\Ioc.API.csproj.CopyComplete
+C:\Users\mahan\source\repos\Ninject\Ioc.API\obj\Debug\Ioc.API.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.API\obj\Debug\Ioc.API.pdb

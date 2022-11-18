@@ -1,0 +1,52 @@
+C:\R&D Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.dll
+C:\R&D Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.pdb
+C:\R&D Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.dll
+C:\R&D Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.dll
+C:\R&D Projects\IocNinject\Ioc.Service\bin\Debug\EntityFramework.dll
+C:\R&D Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.pdb
+C:\R&D Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.pdb
+C:\R&D Projects\IocNinject\Ioc.Service\bin\Debug\EntityFramework.xml
+C:\R&D Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.csprojResolveAssemblyReference.cache
+C:\R&D Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.dll
+C:\R&D Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.pdb
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.pdb
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\EntityFramework.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.pdb
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.pdb
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\EntityFramework.xml
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.csprojResolveAssemblyReference.cache
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.dll
+F:\DotNet\My MVC Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.pdb
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.pdb
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\EntityFramework.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.pdb
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.dll.config
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.pdb
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.dll.config
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\bin\Debug\EntityFramework.xml
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.csproj.AssemblyReference.cache
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.csproj.CoreCompileInputs.cache
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.csproj.CopyComplete
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.dll
+C:\CustomDrive\Mahanth\DotNet\My MVC Projects\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\Ioc.Service.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\Ioc.Service.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\Ioc.Core.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\Ioc.Data.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\EntityFramework.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\Ioc.Core.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\Ioc.Core.dll.config
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\Ioc.Data.pdb
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\Ioc.Data.dll.config
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\bin\Debug\EntityFramework.xml
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\obj\Debug\Ioc.Service.csproj.AssemblyReference.cache
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\obj\Debug\Ioc.Service.csproj.CoreCompileInputs.cache
+C:\Users\mahan\Source\Repos\Ninject\Ioc.Service\obj\Debug\Ioc.Service.csproj.CopyComplete
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\obj\Debug\Ioc.Service.dll
+C:\Users\mahan\source\repos\Ninject\Ioc.Service\obj\Debug\Ioc.Service.pdb
